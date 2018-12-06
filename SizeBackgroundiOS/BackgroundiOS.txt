@@ -1,0 +1,8 @@
+iPhone:
+
+@1x - 640 x 1136 (iPhone SE)
+@2x - 750 x 1334 (iPhone 7, 6S)
+@3x - 1242 x 2208 (iPhone 7 Plus, iPhone 6S Plus)
+iPad:
+
+@2x - 2048 x 1536 (iPad Air, Retina iPad 1st & 2nd Generation / 3rd & 4th & Pad Mini 2nd & 3rd Generation)

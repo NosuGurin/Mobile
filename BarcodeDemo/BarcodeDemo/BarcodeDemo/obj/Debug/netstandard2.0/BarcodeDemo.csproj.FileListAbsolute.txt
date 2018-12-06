@@ -1,0 +1,11 @@
+E:\Xamarin_Forms\Code\NghienCuu\Done2\BarcodeDemo\BarcodeDemo\BarcodeDemo\bin\Debug\netstandard2.0\BarcodeDemo.deps.json
+E:\Xamarin_Forms\Code\NghienCuu\Done2\BarcodeDemo\BarcodeDemo\BarcodeDemo\bin\Debug\netstandard2.0\BarcodeDemo.dll
+E:\Xamarin_Forms\Code\NghienCuu\Done2\BarcodeDemo\BarcodeDemo\BarcodeDemo\obj\Debug\netstandard2.0\BarcodeDemo.csproj.CoreCompileInputs.cache
+E:\Xamarin_Forms\Code\NghienCuu\Done2\BarcodeDemo\BarcodeDemo\BarcodeDemo\obj\Debug\netstandard2.0\BarcodeDemo.App.xaml.g.cs
+E:\Xamarin_Forms\Code\NghienCuu\Done2\BarcodeDemo\BarcodeDemo\BarcodeDemo\obj\Debug\netstandard2.0\BarcodeDemo.MainPage.xaml.g.cs
+E:\Xamarin_Forms\Code\NghienCuu\Done2\BarcodeDemo\BarcodeDemo\BarcodeDemo\obj\Debug\netstandard2.0\BarcodeDemo.AssemblyInfoInputs.cache
+E:\Xamarin_Forms\Code\NghienCuu\Done2\BarcodeDemo\BarcodeDemo\BarcodeDemo\obj\Debug\netstandard2.0\BarcodeDemo.AssemblyInfo.cs
+E:\Xamarin_Forms\Code\NghienCuu\Done2\BarcodeDemo\BarcodeDemo\BarcodeDemo\bin\Debug\netstandard2.0\BarcodeDemo.pdb
+E:\Xamarin_Forms\Code\NghienCuu\Done2\BarcodeDemo\BarcodeDemo\BarcodeDemo\obj\Debug\netstandard2.0\BarcodeDemo.dll
+E:\Xamarin_Forms\Code\NghienCuu\Done2\BarcodeDemo\BarcodeDemo\BarcodeDemo\obj\Debug\netstandard2.0\BarcodeDemo.pdb
+E:\Xamarin_Forms\Code\NghienCuu\Done2\BarcodeDemo\BarcodeDemo\BarcodeDemo\obj\Debug\netstandard2.0\BarcodeDemo.csprojAssemblyReference.cache

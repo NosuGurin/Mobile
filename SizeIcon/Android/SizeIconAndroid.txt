@@ -1,0 +1,8 @@
+
+1.  72 x 72		drawable
+
+2.	72 x 72		drawable-hdpi
+
+3.	96 x 96		drawable-xhdpi
+
+4.	144 x 144	drawable-xxhdpi

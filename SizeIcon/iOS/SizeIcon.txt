@@ -1,0 +1,37 @@
+1.	29 x 29		Icon-Small.png
+
+2.	57 x 57		Icon.png
+
+3.	114 x 114 	Icon@2x.png
+
+4.	120 x 120	Icon-60@2x.png
+
+5.	72 x 72		Icon-72.png
+
+6.	144 x 144	Icon-72@2x.png
+
+7.	76 x 76		Icon-76.png
+
+8.	152 x 152	Icon-76@2x.png
+
+9.	58 x 58		Icon-Small@2x.png
+
+10.	50 x 50		Icon-Small-50.png
+
+11.	100 x 100	Icon-Small-50@2x.png
+
+12.	40 x 40		Icon-Small-40.png
+
+13.	80 x 80		Icon-Small-40@2x.png
+
+14.	167 x 167	Icon-83.5@2x.png
+
+15.	60 x 60
+
+16.	87 x 87
+
+17.	180 x 180
+
+18.	20 x 20
+
+19.	1024 x 1024
